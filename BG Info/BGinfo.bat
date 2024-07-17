@@ -1,0 +1,1 @@
+\\UTS-Backups\bginfo\Bginfo64.exe \\UTS-Backups\bginfo\UTS.bgi /TIMER:0 /silent /nolicprompt
